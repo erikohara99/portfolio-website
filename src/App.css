@@ -1,6 +1,7 @@
 html {
   background-color: rgb(46,46,46);
   color: white;
+  height: 200%;
 }
 
 #header {
@@ -26,4 +27,30 @@ html {
 
 #links ul li a:active {
   color: darkgray;
+}
+
+#splash {
+  text-align: center;
+  background-image: url("./resources/splash_bg.jpg");
+  width: 100%;
+  padding-bottom: 100px;
+}
+
+#splash h1, #splash h2 {
+  margin: 0px;
+}
+
+#splash h1 {
+  font-size: 72px;
+  padding-top: 40px;
+}
+
+#splash h2 {
+  font-size: 40px;
+}
+
+#splash img {
+  height: 300px;
+  border-radius: 150px;
+  margin-top: 40px;
 }
