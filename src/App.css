@@ -14,14 +14,21 @@ html {
   font-size: 20px;
 }
 
+#header #links ul li a span {
+  color: rgb(180,180,180);
+}
+
 #header p:first-child {
   font-size: 30px;
 }
 
 #links ul li {
   display: inline-block;
-  text-decoration: none;
   margin: auto 20px;
+}
+
+#links ul li, #links ul li a {
+  text-decoration: none;
 }
 
 #links ul {
@@ -37,7 +44,7 @@ html {
 }
 
 #button {
-  background-color: purple;
+  background-color: rgb(0,85,165);
   border-radius:30px;
   padding: 12px 20px;
   transition: 0.3s ease;
@@ -45,11 +52,11 @@ html {
 
 #button:hover {
   cursor: pointer;
-  background-color: magenta;
+  background-color: rgb(0,119,234);
 }
 
 #splash {
-  background-image: url("./resources/waterfall.jpg");
+  background-image: url("./resources/waterfall_edit.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -75,7 +82,7 @@ html {
 
 #splash img {
   height: 30vh;
-  border: 10px white solid;
+  border: 6px white solid;
   border-radius: 300px;
   float: left;
   min-height: 240px;
