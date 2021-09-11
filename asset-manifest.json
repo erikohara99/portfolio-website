@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.9e3895c0.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.4cdada63.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.4cdada63.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.e7433c44.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.e7433c44.js.map",
+    "static/js/2.bea5cee3.chunk.js": "/portfolio-website/static/js/2.bea5cee3.chunk.js",
+    "static/js/2.bea5cee3.chunk.js.map": "/portfolio-website/static/js/2.bea5cee3.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "static/css/main.9e3895c0.chunk.css.map": "/portfolio-website/static/css/main.9e3895c0.chunk.css.map",
+    "static/js/2.bea5cee3.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.bea5cee3.chunk.js.LICENSE.txt",
+    "static/media/face.8feaae62.png": "/portfolio-website/static/media/face.8feaae62.png",
+    "static/media/portfolio_website.20adc7f0.jpg": "/portfolio-website/static/media/portfolio_website.20adc7f0.jpg",
+    "static/media/refriends.f59ca623.png": "/portfolio-website/static/media/refriends.f59ca623.png",
+    "static/media/teamup.55a52aa2.gif": "/portfolio-website/static/media/teamup.55a52aa2.gif",
+    "static/media/App.css": "/portfolio-website/static/media/waterfall_edit.16b7ac71.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7433c44.js",
+    "static/js/2.bea5cee3.chunk.js",
+    "static/css/main.9e3895c0.chunk.css",
+    "static/js/main.4cdada63.chunk.js"
+  ]
+}
