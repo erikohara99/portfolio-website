@@ -12,7 +12,7 @@ class Header extends Component {
                         <li><a href="https://drive.google.com/file/d/1JKiEBVlSm4D8q1ApK6JpFTaj-cuLk_bp/view"><span>Resume</span></a></li>
                     </ul>
                 </div>
-                <p id="button">Contact Me</p>
+                <a href="mailto:erikmohara@gmail.com" id="button">Contact Me</a>
             </div>
         );
     }

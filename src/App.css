@@ -14,6 +14,15 @@ html {
   font-size: 20px;
 }
 
+.footer {
+  border-top: 1px solid white;
+}
+
+#header a#button {
+  text-decoration: none;
+  color: white;
+}
+
 #header #links ul li a span {
   color: rgb(180,180,180);
 }
@@ -65,6 +74,8 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
 }
 
 #splash h1, #splash h2 {
@@ -90,4 +101,52 @@ html {
 
 .empty_space {
   margin: 0px 50px;
+}
+
+h1.header {
+  font-size: 48px;
+  text-align: center;
+}
+
+#about {
+  margin: 20px 25%;
+  text-align: center;
+}
+
+.info {
+  font-size: 22px;
+}
+
+div.project {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+div.project a {
+  font-size: 40px;
+}
+
+div.project a:link, div.project a:visited {
+  color: rgb(0, 102, 255);
+}
+
+div.project a:active {
+  color: rgb(63, 138, 252);
+}
+
+#portfolio {
+  margin: 100px 10% 0 10%;
+}
+
+.project-info {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.project-info img {
+  width: 700px;
+  border: 4px solid gray;
+  border-radius: 25px;
+  margin-right: 40px;
 }
